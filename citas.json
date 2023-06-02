@@ -1,0 +1,23 @@
+[
+    {
+        "nombre": "boby",
+        "edad": "2 años",
+        "tipo": "perro",
+        "color": "cafe claro",
+        "enfermedad": "herida en una pata"
+    },
+    {
+        "nombre": "candy",
+        "edad": "10 años",
+        "tipo": "gato",
+        "color": "blanco y negro",
+        "enfermedad": "vomitos y cataratas"
+    },
+    {
+        "nombre": "lady",
+        "edad": "1 año",
+        "tipo": "tortuga",
+        "color": "verde",
+        "enfermedad": "no come hace 3 dias"
+    }
+]
